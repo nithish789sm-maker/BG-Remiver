@@ -1,5 +1,5 @@
 Version - 1.0.1
-Update - true
+Update - false
 Date - 25-10-2026
 Time - 10:00 PM
 Link - https://play.google.com/store/apps/details?id=com.yourgame
