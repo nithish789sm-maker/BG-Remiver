@@ -1,7 +1,7 @@
 Version - 1.0.1
 Update - true
 Title - Update Available 🚀
-VersionText - New Update 1.1.3
+VersionText - New Update 1.1.2
 Message - Update Now To Enjoy New Features Of BG Remover!
 ReleasedText - 📅 Released on 25-10-2026 10:00 PM
 Button - Update Now
