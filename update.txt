@@ -1,17 +1,19 @@
 Version - 1.0.1
 Update - true
-Title - Critical Update 🚨
-Message - We have completely redesigned the app for you. Update now to enjoy the new features!
-Button - Download Update
+Title - Update Available 🚀
+VersionText - New Update
+Message - Update Now To Enjoy New Features Of BG Remover!
+ReleasedText - 📅 Released on 25-10-2026 10:00 PM
+Button - Update Now
 Warning - Please update to continue.
-Date - 25-10-2026
-Time - 10:00 PM
-Link - https://play.google.com/store/apps/details?id=com.yourgame
+Link - https://youtube.com/@nithish_mn?si=-2QoeMSxu2B5WKBu
 
 Version - 1.1.2
 Update - false
 Title - Welcome to V2!
+VersionText - Latest Version
 Message - Added brand new UI and faster processing.
-Date - 28-10-2026
-Time - 12:00 PM
+ReleasedText - 📅 Date 28-10-2026 12:00 PM
+Button - Update Now
+Warning - You must update to use the app.
 Link - https://play.google.com/store/apps/details?id=com.yourgame
