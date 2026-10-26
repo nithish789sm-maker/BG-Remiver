@@ -1,5 +1,5 @@
 Version - 1.0.1
-Update - false
+Update - true
 Title - Critical Update 🚨
 Message - We have completely redesigned the app for you. Update now to enjoy the new features!
 Button - Download Update
